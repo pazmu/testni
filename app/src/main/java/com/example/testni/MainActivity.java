@@ -9,10 +9,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        // git config --global user.email ---email--
-        // git config --global user.username ---username---
-        // git config --global user.password ---lozinka---
-         // git remote add origin https://github.com/pazmu/testni.git
     }
 }
